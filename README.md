@@ -4,7 +4,7 @@ In this repository we will create calculator in multiple programming languages w
 
 - [ ] C
 - [x] Typescript
-- [ ] Javascript
+- [x] Javascript
 - [ ] Java
 - [ ] Python
 - [ ] C++
