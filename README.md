@@ -6,7 +6,7 @@ In this repository we will create calculator in multiple programming languages w
 - [x] Typescript
 - [x] Javascript
 - [ ] Java
-- [ ] Python
+- [x] Python
 - [ ] C++
 - [ ] Rust
 - [ ] Dart
